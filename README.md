@@ -35,7 +35,7 @@ model.pt               ← saved PyTorch model (created by the script)
 1. Open **Command Prompt** (search for “cmd” in the Start menu).
 2. Run:
    ```bash
-   pip install flask torch
+   pip install flask torch flask-cors
    ```
 
 ### Mac
